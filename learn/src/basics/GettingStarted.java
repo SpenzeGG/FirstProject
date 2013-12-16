@@ -8,7 +8,7 @@ public class GettingStarted {
 		 * @author studentstach
 		 */
 		int[][] ba = new int[3][3];
-		int[][] cd = {{1,2,3},{123},{123}};
+		int[][] cd = {{1,2,3},{12,3},{123}};
 		System.out.println(Arrays.deepToString(cd));
 		boolean bol = false;
 		int  ah= bol ? 1 : 2;
